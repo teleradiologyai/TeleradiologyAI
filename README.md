@@ -1,4 +1,4 @@
-TeleradiologyAI
+TeleradiologyAI - TRAI
 
 TeleradiologyAI is a decentralized medical imaging system that utilizes blockchain technology, TRAI coin, and artificial intelligence to provide secure and efficient radiology scan reporting.
 
